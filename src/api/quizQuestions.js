@@ -1,86 +1,86 @@
 var quizQuestions = [
   {
-      question: "What franchise would you rather play a game from?",
+      question: "What a security personnel should do if some factory employee approaches the gate without wearing a mask?",
       answers: [
           {
-              type: "Microsoft",
-              content: "Halo"
+              type: "Adept",
+              content: "Give him a mask from the store and then check him."
           },
           {
-              type: "Nintendo",
-              content: "Pokemon"
+              type: "Intermediate",
+              content: "Check him without any changes in the process."
           },
           {
-              type: "Sony",
-              content: "Uncharted"
+              type: "Novice",
+              content: "Do not check him."
           }
       ]
   },
   {
-      question: "Which console would you prefer to play with friends?",
+      question: "A factory worker is found to have temperature above normal",
       answers: [
           {
-              type: "Microsoft",
-              content: "X-Box"
+              type: "Adept",
+              content: "Stop him from entering and let the management and the health cell know."
           },
           {
-              type: "Nintendo",
-              content: "Nintendo 64"
+              type: "Intermediate",
+              content: "Stop him from entering."
           },
           {
-              type: "Sony",
-              content: "Playstation 1"
+              type: "Novice",
+              content: "Let him through."
           }
       ]
   },
   {
-      question: "Which of these racing franchises would you prefer to play a game from?",
+      question: "An employee is found to be out of breath and likely to faint, what should you do?",
       answers: [
           {
-              type: "Microsoft",
-              content: "Forza"
+              type: "Adept",
+              content: "Apply oximeter provided by the company to check oxygen level and report the incident to health cell"
           },
           {
-              type: "Nintendo",
-              content: "Mario Kart"
+              type: "Intermediate",
+              content: "Report to the health cell"
           },
           {
-              type: "Sony",
-              content: "Gran Turismo"
+              type: "Novice",
+              content: "Call the persons family"
           }
       ]
   },
   {
-      question: "Which of these games do you think is best?",
+      question: "Which of the beow application is recommended by Govt. Of India for COVID related info?",
       answers: [
           {
-              type: "Microsoft",
-              content: "BioShock"
+              type: "Adept",
+              content: "Arogya Setu"
           },
           {
-              type: "Nintendo",
-              content: "The Legend of Zelda: Ocarina of Time"
+              type: "Intermediate",
+              content: "YouTube"
           },
           {
-              type: "Sony",
-              content: "Final Fantasy VII"
+              type: "Novice",
+              content: "MX PLayer"
           }
       ]
   },
   {
-      question: "What console would you prefer to own?",
+      question: "What is the recommended distance for social distancing?",
       answers: [
           {
-              type: "Microsoft",
-              content: "X-Box One"
+              type: "Adept",
+              content: "2m"
           },
           {
-              type: "Nintendo",
-              content: "Wii U"
+              type: "Intermediate",
+              content: "1m"
           },
           {
-              type: "Sony",
-              content: "Playstation 4"
+              type: "Novice",
+              content: "None"
           }
       ]
   }
